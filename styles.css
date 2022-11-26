@@ -1,0 +1,24 @@
+.dz{
+    width: 400px
+}
+body{
+    background:rgb(248, 252, 224)
+}
+
+.one{
+    background: rgb(228, 231, 66);
+    font-style: italic;
+color:rgb(68, 71, 3)
+}
+
+li {
+    font-style: italic;
+    margin: 10px;
+}
+.link {
+    background: rgb(212, 206, 23);
+}
+.textcolor{
+    color: rgb(223, 226, 161);
+    font-size: 40px;
+}
